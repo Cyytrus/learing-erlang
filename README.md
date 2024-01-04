@@ -1,1 +1,1 @@
-# learing-erlang
+# learning-erlang
