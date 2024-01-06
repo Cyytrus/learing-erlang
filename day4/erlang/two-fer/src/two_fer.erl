@@ -6,4 +6,4 @@ two_fer() ->
   "One for you, one for me.".
 
 two_fer(Name) ->
-  io:format("One for ~s, one for me.", [Name]).
+  "One for " ++ Name ++ ", one for me.".
