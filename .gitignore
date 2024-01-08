@@ -13,9 +13,9 @@
 ebin
 log
 erl_crash.dump
-.rebar
+**/*.rebar
 logs
-.idea
-*.iml
+**/*.idea
+**/*.iml
 rebar3.crashdump
 *~
